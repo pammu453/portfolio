@@ -69,7 +69,13 @@ let resumeData = {
         "description":"The MERN Tour app is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) designed to offer an interactive and user-friendly platform for organizing, exploring, and sharing information about tours and travel experiences.",
         "imgurl":"images/portfolio/Screenshot (46).png",
         "preview":"https://rad-basbousa-7300f5.netlify.app/"
-      }
+      },
+      {
+        "name":"Real Estate app",
+        "description":"A MERN-based real estate app helps users find, list, and explore properties efficiently",
+        "imgurl":"images/portfolio/Screenshot (52).png",
+        "preview":"https://6544d36a3a4ed41271222f40--serene-malasada-5da25d.netlify.app/"
+      },
     ]
   }
   
