@@ -78,7 +78,7 @@ export default class Resume extends Component {
                   <div>
                     <strong style={{ color: "black" }}>
                     Frameworks / Libraries:
-                    </strong> tailwind, React.js, Redux, Node.js, Express.js, Chakra UI, Material UI, Bootstrap 5, jQuery.
+                    </strong> Tailwind CSS, React.js, Redux, Redux Toolkit, Node.js, Express.js, Chakra UI, Material UI, Bootstrap 5, jQuery.
                   </div>
                   <div>
                     <strong style={{ color: "black" }}>
