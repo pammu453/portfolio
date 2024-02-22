@@ -1,4 +1,4 @@
-# take a preview of my portfpolio(https://652c1c7844099d1acc46247c--scintillating-mousse-2b9db5.netlify.app/)
+# take a preview of my portfpolio(https://pramod-savant.onrender.com)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
