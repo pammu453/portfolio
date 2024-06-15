@@ -22,7 +22,7 @@ let resumeData = {
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": "I am currently a final year student at KLE Collage of Engineering and Technology and pursuing my BE from here. I am a self taught Full Stack Web Developer, currently diving deeper into MERN stack. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "aboutme": "I am a self taught Full Stack Web Developer, currently diving deeper into MERN stack. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
   "address": "Nandikurali,Belagavi",
   "website": "https://github.com/pammu453",
   "education": [
@@ -87,6 +87,12 @@ let resumeData = {
       "description": "The MERN Tour app is a web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) designed to offer an interactive and user-friendly platform for organizing, exploring, and sharing information about tours and travel experiences.",
       "imgurl": "images/portfolio/Screenshot (46).png",
       "preview": "https://rad-basbousa-7300f5.netlify.app/"
+    },
+    {
+      "name": "Full stack recipe app",
+      "description": "The recipe app is a simple application that provides information about the various recipe and video demonstrates",
+      "imgurl": "images/portfolio/Screenshot (80).png",
+      "preview": "https://mern-stack-recipe-app.onrender.com"
     },
 
   ]
