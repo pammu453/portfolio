@@ -77,12 +77,6 @@ let resumeData = {
       "preview": "https://savant-estate.onrender.com"
     },
     {
-      "name": "Food oder website",
-      "description": "A food oder website helps users to order food online and pay through stripe",
-      "imgurl": "images/portfolio/Screenshot (85).png",
-      "preview": "https://food-order-user.onrender.com"
-    },
-    {
       "name": "MERN Todo app",
       "description": "Developed a feature-rich MERN stack Todo App with cloud deployment, showcasing full-stack proficiency.",
       "imgurl": "images/portfolio/Screenshot (45).png",
