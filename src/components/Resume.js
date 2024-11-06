@@ -73,23 +73,23 @@ export default class Resume extends Component {
                   <div>
                     <strong style={{ color: "black" }}>
                       Programming languages:
-                    </strong> C, Python, JavaScript, HTML, CSS.
+                    </strong> JavaScript, TypeScript, HTML, CSS.   
                   </div>
                   <div>
                     <strong style={{ color: "black" }}>
                     Frameworks / Libraries:
-                    </strong> Tailwind CSS, React.js, Redux, Redux Toolkit, Node.js, Express.js, Flowbite React, Chakra UI, Material UI, Bootstrap 5, jQuery.
+                    </strong> React.js, Node.js, Express.js, GraphQL (Apollo Client, Apollo Server), Next.js, Tailwind CSS, Redux, Redux Toolkit, Express.js, Material UI
                   </div>
                   <div>
                     <strong style={{ color: "black" }}>
                     Databases:
-                    </strong> MySQL, MongoDB.
+                    </strong> MySQL, MongoDB, PostgreSQL.
                   </div>
 
                   <div>
                     <strong style={{ color: "black" }}>
-                    Tools: 
-                    </strong> Tools: Git, Postman, GitHub, VS Code.
+                      Tools / Platform:
+                    </strong> Git, Postman, GitHub, VS Code.
                   </div>
                 </div>
               }

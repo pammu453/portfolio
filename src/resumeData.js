@@ -1,10 +1,10 @@
 let resumeData = {
   "imagebaseurl": "https://avatars.githubusercontent.com/u/111453798?s=400&u=b7ac013fbd5415867b6404832f294f59584fc592&v=4",
   "name": "Pramod Savant",
-  "role": "MERN Stack developer",
+  "role": "Full Stack developer",
   "Github": "https://github.com/pammu453",
   "Gmail": "pramodsavant2001@gmail.com",
-  "roleDescription": "I like dabbling in various parts of MERN stack development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " who enjoys exploring different areas of development, learning new technologies, and playing games in my free time.",
   "socialLinks": [
     {
       "name": "linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": "I am a self taught Full Stack Web Developer, currently diving deeper into MERN stack. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "aboutme": "I am a self-taught full-stack web developer, dedicated to advancing my expertise in all aspects of development. I believe that success is achieved through a strong commitment to one’s goals, driven by passion and consistent effort.",
   "address": "Nandikurali,Belagavi",
   "website": "https://github.com/pammu453",
   "education": [
@@ -31,7 +31,7 @@ let resumeData = {
       "specialization": "B.E. (Bachelor of Engineering) in Computer Science and Engineering",
       "MonthOfPassing": "Jul",
       "YearOfPassing": "2024",
-      "Achievements": "CGPA : 8.32"
+      "Achievements": "CGPA : 8.23"
     },
     {
       "UniversityName": "Govt PU College, Majalatti",
@@ -54,7 +54,7 @@ let resumeData = {
       "specialization": "Full-Stack Developer Intern",
       "MonthOfLeaving": "Aug",
       "YearOfLeaving": ". 2023 - Sep. 2023 ",
-      "Achievements": "Developed and maintained front-end and back-end components of web applications using technologies such as HTML, CSS, JavaScript, React.js, Node.js, and Express.js.Implemented responsive design principles, resulting in a 20% increase in user engagement on mobile devices.Conducted rigorous code reviews, providing constructive feedback and ensuring code quality and consistency.Demonstrated strong teamwork and communication skills while collaborating with designers, product managers, and fellow developers."
+      "Achievements": "Developed front-end and back-end components of web applications using technologies such as HTML, CSS, JavaScript, React.js, Node.js, and Express.js.   Implemented responsive design principles, resulting increase in user engagement on mobile devices. Demonstrated strong teamwork and communication skills while collaborating with team."
     }
   ],
   "portfolio": [
